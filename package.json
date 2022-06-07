@@ -28,7 +28,8 @@
     "start": "react-scripts start",
     "build": "babel src -d lib",
     "test": "jest",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "prebuild": "jest"
   },
   "eslintConfig": {
     "extends": [
