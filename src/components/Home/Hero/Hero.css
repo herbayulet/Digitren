@@ -1,0 +1,6 @@
+.rabmag {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10rem;
+  margin-top: -6rem;
+}

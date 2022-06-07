@@ -1,0 +1,9 @@
+{
+  "wallets": [
+    {
+      "id": 1,
+      "nama": "Herbayu",
+      "uang": 100000
+    }
+  ]
+}
